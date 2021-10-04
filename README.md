@@ -1,8 +1,8 @@
 ## Olá eu sou a Eder Almeida, e esse é o github!
 <div align="center">
   <a href="https://github.com/ederaalmeida">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ederaalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederaalmeida&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ederaalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederaalmeida&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
