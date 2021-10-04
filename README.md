@@ -1,4 +1,4 @@
-## Olá eu sou a Eder Almeida, e esse é o github!
+## Olá eu sou a Eder Almeida, segue o meu github!
 <div align="center">
   <a href="https://github.com/ederaalmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ederaalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
