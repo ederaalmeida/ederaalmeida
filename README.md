@@ -9,7 +9,7 @@
   <img align="center" alt="Eder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eder-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eder-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/52221752/180457477-a54b5e43-bdbf-4128-952f-286aa84d0827.svg">
+  <img align="center" alt="Eder-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/52221752/180457945-aba082ad-6a18-4bfb-bb99-2fe79d9e49be.svg">
 </div>
 
 <div> 
